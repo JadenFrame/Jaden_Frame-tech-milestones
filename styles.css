@@ -1,0 +1,21 @@
+html{background-color:powderblue;}
+#Heading1 { border:2px solid cadetblue;
+text-align: center;
+color: navy;
+}
+h2  {
+  border-style: inset;
+  border-color: cadetblue;
+  color: navy;
+  text-shadow: 2px 2px steelblue;
+} 
+p {
+  Color: steelblue;
+ 
+}
+.para2 {
+  border-style: inset;
+  border-color: cadetblue;
+  color: navy;
+  text-shadow: 2px 2px steelblue;
+}
